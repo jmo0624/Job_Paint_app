@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job: one
+  brand_name: MyString
+  type: 
+  dry_time: 
+
+two:
+  job: two
+  brand_name: MyString
+  type: 
+  dry_time: 
